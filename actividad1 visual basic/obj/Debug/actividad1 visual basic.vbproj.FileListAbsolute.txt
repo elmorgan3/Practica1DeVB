@@ -1,0 +1,45 @@
+C:\Users\Morgan visual\Desktop\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.exe.config
+C:\Users\Morgan visual\Desktop\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.exe
+C:\Users\Morgan visual\Desktop\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.pdb
+C:\Users\Morgan visual\Desktop\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.xml
+C:\Users\Morgan visual\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1_visual_basic.Form1.resources
+C:\Users\Morgan visual\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1_visual_basic.Resources.resources
+C:\Users\Morgan visual\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.vbproj.GenerateResource.Cache
+C:\Users\Morgan visual\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.exe
+C:\Users\Morgan visual\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.xml
+C:\Users\Morgan visual\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.pdb
+D:\VMWare04\Disseny i implementació dinterfícies\actividad1_visual_basic-2015-10-20\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.exe.config
+D:\VMWare04\Disseny i implementació dinterfícies\actividad1_visual_basic-2015-10-20\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.exe
+D:\VMWare04\Disseny i implementació dinterfícies\actividad1_visual_basic-2015-10-20\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.xml
+D:\VMWare04\Disseny i implementació dinterfícies\actividad1_visual_basic-2015-10-20\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.pdb
+D:\VMWare04\Disseny i implementació dinterfícies\actividad1_visual_basic-2015-10-20\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1_visual_basic.Form1.resources
+D:\VMWare04\Disseny i implementació dinterfícies\actividad1_visual_basic-2015-10-20\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1_visual_basic.Resources.resources
+D:\VMWare04\Disseny i implementació dinterfícies\actividad1_visual_basic-2015-10-20\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.vbproj.GenerateResource.Cache
+D:\VMWare04\Disseny i implementació dinterfícies\actividad1_visual_basic-2015-10-20\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.exe
+D:\VMWare04\Disseny i implementació dinterfícies\actividad1_visual_basic-2015-10-20\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.pdb
+D:\VMWare04\Disseny i implementació dinterfícies\actividad1_visual_basic-2015-10-20\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.xml
+C:\Users\cfgs2inf02\Desktop\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.exe.config
+C:\Users\cfgs2inf02\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.exe
+C:\Users\cfgs2inf02\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.xml
+C:\Users\cfgs2inf02\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.pdb
+C:\Users\cfgs2inf02\Desktop\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.exe
+C:\Users\cfgs2inf02\Desktop\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.pdb
+C:\Users\cfgs2inf02\Desktop\actividad1 visual basic\actividad1 visual basic\bin\Debug\actividad1 visual basic.xml
+C:\Users\cfgs2inf02\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1_visual_basic.Form1.resources
+C:\Users\cfgs2inf02\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1_visual_basic.Resources.resources
+C:\Users\cfgs2inf02\Desktop\actividad1 visual basic\actividad1 visual basic\obj\Debug\actividad1 visual basic.vbproj.GenerateResource.Cache
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 1\actividad1 visual basic\bin\Debug\actividad1 visual basic.exe.config
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 1\actividad1 visual basic\obj\Debug\actividad1 visual basic.exe
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 1\actividad1 visual basic\obj\Debug\actividad1 visual basic.xml
+D:\VMWare04\Disseny i implementació dinterfícies\Practica 1\actividad1 visual basic\obj\Debug\actividad1 visual basic.pdb
+C:\Users\Morgan\Desktop\Actividades VB\Practica 1\actividad1 visual basic\bin\Debug\actividad1 visual basic.exe.config
+C:\Users\Morgan\Desktop\Actividades VB\Practica 1\actividad1 visual basic\obj\Debug\actividad1 visual basic.exe
+C:\Users\Morgan\Desktop\Actividades VB\Practica 1\actividad1 visual basic\obj\Debug\actividad1 visual basic.xml
+C:\Users\Morgan\Desktop\Actividades VB\Practica 1\actividad1 visual basic\obj\Debug\actividad1 visual basic.pdb
+C:\Users\Morgan\Desktop\Actividades VB\Practica 1\actividad1 visual basic\bin\Debug\actividad1 visual basic.exe
+C:\Users\Morgan\Desktop\Actividades VB\Practica 1\actividad1 visual basic\bin\Debug\actividad1 visual basic.pdb
+C:\Users\Morgan\Desktop\Actividades VB\Practica 1\actividad1 visual basic\bin\Debug\actividad1 visual basic.xml
+C:\Users\Morgan\Desktop\Actividades VB\Practica 1\actividad1 visual basic\obj\Debug\actividad1 visual basic.vbprojResolveAssemblyReference.cache
+C:\Users\Morgan\Desktop\Actividades VB\Practica 1\actividad1 visual basic\obj\Debug\actividad1_visual_basic.Form1.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 1\actividad1 visual basic\obj\Debug\actividad1_visual_basic.Resources.resources
+C:\Users\Morgan\Desktop\Actividades VB\Practica 1\actividad1 visual basic\obj\Debug\actividad1 visual basic.vbproj.GenerateResource.Cache
